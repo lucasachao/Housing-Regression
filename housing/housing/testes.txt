@@ -1,0 +1,94 @@
+ultimo_erro - erro < 0.00000005
+
+lambida = 1.000000
+Teta:
+-0.089081;0.051842;-0.090238;1.817980;0.966193;5.549730;-0.011695;-0.876691;0.247280;-0.014090;-0.331242;0.011450;-0.353695;1.663398;
+J(x) de valores de treinamento = 12.069446
+J(x) de valores de teste 1 = 12.733371
+J(x) de valores de teste 2 = 13.367982
+
+count 1145775
+
+Valores com erro inaceitavel:
+Erros acima de 10k = 20	Erros acima de 20k = 4
+
+
+lambida = 5.000000
+Teta:
+-0.088483;0.053580;-0.089725;1.696247;0.905832;5.414555;-0.008738;-0.852748;0.244938;-0.013936;-0.303001;0.011829;-0.363733;1.659299;
+J(x) de valores de treinamento = 12.331913
+J(x) de valores de teste 1 = 13.431958
+J(x) de valores de teste 2 = 14.151538
+
+count 1065372
+
+Valores com erro inaceitavel:
+Erros acima de 10k = 19	Erros acima de 20k = 4
+
+
+lambida = 7.000000
+Teta:
+-0.088189;0.054401;-0.089538;1.644014;0.878894;5.350060;-0.007338;-0.841291;0.243803;-0.013861;-0.289594;0.012008;-0.368498;1.657972;
+J(x) de valores de treinamento = 12.457648
+J(x) de valores de teste 1 = 13.762606
+J(x) de valores de teste 2 = 14.517910
+
+count 1033373
+
+Valores com erro inaceitavel:
+Erros acima de 10k = 19	Erros acima de 20k = 4
+
+
+lambida = 10.000000
+Teta:
+-0.087753;0.055584;-0.089319;1.573346;0.842073;5.256492;-0.005315;-0.824619;0.242137;-0.013749;-0.270201;0.012268;-0.375388;1.656029;
+J(x) de valores de treinamento = 12.640187
+J(x) de valores de teste 1 = 14.236783
+J(x) de valores de teste 2 = 15.040410
+
+count 991168
+
+Valores com erro inaceitavel:
+Erros acima de 10k = 19	Erros acima de 20k = 4
+
+
+
+lambida = 15.000000
+Teta:
+-0.087042;0.057448;-0.089078;1.471328;0.789034;5.107779;-0.002119;-0.797979;0.239446;-0.013568;-0.239484;0.012678;-0.386289;1.651949;
+J(x) de valores de treinamento = 12.929892
+J(x) de valores de teste 1 = 14.976965
+J(x) de valores de teste 2 = 15.846481
+
+count 930567
+
+Valores com erro inaceitavel:
+Erros acima de 10k = 20	Erros acima de 20k = 4
+
+
+
+lambida = 20.000000
+Teta:
+-0.086351;0.059199;-0.088954;1.384418;0.744631;4.966889;0.000892;-0.772562;0.236850;-0.013393;-0.210489;0.013066;-0.396567;1.646318;
+J(x) de valores de treinamento = 13.203428
+J(x) de valores de teste 1 = 15.661029
+J(x) de valores de teste 2 = 16.582172
+
+count 877739
+
+Valores com erro inaceitavel:
+Erros acima de 10k = 23	Erros acima de 20k = 4
+
+ultimo_erro - erro < 0.0000000005
+
+lambida = 7.000000
+Teta:
+-0.088814;0.052884;-0.089174;1.986480;0.120252;5.375849;-0.008884;-0.872685;0.249376;-0.013888;-0.324537;0.011558;-0.364556;2.845260;
+J(x) de valores de treinamento = 12.417722
+J(x) de valores de teste 1 = 13.931862
+J(x) de valores de teste 2 = 14.531400
+
+count 4356229
+
+Valores com erro inaceitavel:
+Erros acima de 10k = 19	Erros acima de 20k = 4
