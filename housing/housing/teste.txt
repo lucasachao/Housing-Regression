@@ -7,4 +7,4 @@ J(x) de valores de teste 1 = 13.931862
 J(x) de valores de teste 2 = 14.531400
 
 Valores com erro inaceitavel:
-Erros acima de 10k = 19	Erros acima de 20k = 4
+Erros acima de 10k = 70	Erros acima de 20k = 23

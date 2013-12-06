@@ -79,6 +79,7 @@ count 877739
 Valores com erro inaceitavel:
 Erros acima de 10k = 23	Erros acima de 20k = 4
 
+
 ultimo_erro - erro < 0.0000000005
 
 lambida = 7.000000

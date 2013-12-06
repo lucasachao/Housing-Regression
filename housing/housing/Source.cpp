@@ -297,15 +297,36 @@ void testaTeta()
 	system("pause");
 }
 
+void verifica_dados(int num)
+{
+	float maior, media, menor;
+	maior = media = 0.0;
+	menor = 100000000000000000.0;
+	for(int i = 0; i < num; i++)
+	{
+		media += x[13][i];
+		if(maior < x[13][i])
+			maior = x[13][i];
+		if(menor > x[13][i])
+			menor = x[13][i];
+	}
+	media = media/num;
+
+	printf("Maior valor de casa encontrado: %f\nValor medio: %f\nMenor valor: %f\n\n", maior, media, menor);
+}
+
 void main()
 {
 	//le dados ja misturados
 	leDados(506, "housing_shuffle.data");
-
+	
 	//caso queira criar um novo housing_shuffle.data
 	//leDados(506, "housing.data");
 	//embaralha(506);
 	//guarda(506);
+
+	//imprime maior valor e valor medio de x[13][i]
+	verifica_dados(506);
 
 	while(true)
 	{
